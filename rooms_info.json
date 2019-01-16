@@ -1,0 +1,595 @@
+{
+  "location": {
+    "uuid": "f999cd33-aea1-450b-a9c7-bdda22e45e62",
+    "name": "Coeur Marais",
+    "time_zone": "Europe/Paris",
+    "address_full": null,
+    "address_1": "64-66 Rue Des Archives",
+    "market_name": "Paris",
+    "market_uuid": "b9ae5c97-1341-45db-8160-a89a788fa242",
+    "opened_on": "2017-11-30T23:00:00.000Z",
+    "pxwe": false
+  },
+  "rooms": [
+    {
+      "id": 4306,
+      "uuid": "c5b8f1ba-d5b6-11e7-9ac6-22000bfdfd88",
+      "name": "GR A",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1/Defaults_DO_NOT_DELETE/Meeting/bookable-placeholder-06.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [],
+      "amenity_tags": [],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4307,
+      "uuid": "d43b0520-d5b6-11e7-9ab1-22000bfdfd88",
+      "name": "GR B",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1/Defaults_DO_NOT_DELETE/Meeting/bookable-placeholder-07.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4308,
+      "uuid": "e1d01af4-d5b6-11e7-aa73-22000bfdfd88",
+      "name": "GR C",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520189907/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-C.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4309,
+      "uuid": "eb4dfe8e-d5b6-11e7-b16b-22000bfdfd88",
+      "name": "GR D",
+      "capacity": 3,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520189861/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-D.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4310,
+      "uuid": "f84a4bba-d5b6-11e7-a29c-22000bfdfd88",
+      "name": "GR E",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520189710/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-E.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4311,
+      "uuid": "05dbf3a0-d5b7-11e7-a8ab-22000bfdfd88",
+      "name": "GR F",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520189758/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-F.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Phone"
+      ],
+      "amenity_tags": [
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4312,
+      "uuid": "10bfaf3c-d5b7-11e7-a5f2-22000bfdfd88",
+      "name": "GR G",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190043/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-G.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4313,
+      "uuid": "214db3ee-d5b7-11e7-8493-22000bfdfd88",
+      "name": "GR H",
+      "capacity": 24,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520192578/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_GR-H.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "Ground Floor",
+        "floor_number": 0
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4314,
+      "uuid": "33dba232-d5b7-11e7-bd68-22000bfdfd88",
+      "name": "1A",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190523/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_1A.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4315,
+      "uuid": "429e2416-d5b7-11e7-91e9-22000bfdfd88",
+      "name": "1B",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190483/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_1B.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": "",
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4316,
+      "uuid": "4e113676-d5b7-11e7-a6ce-22000bfdfd88",
+      "name": "1C",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190649/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_1C-2.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4317,
+      "uuid": "8b5d8692-d5b7-11e7-bc13-22000bfdfd88",
+      "name": "1D",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1515583252/Coeur%20Marais%20conf-room/1D.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4318,
+      "uuid": "95db47da-d5b7-11e7-9ac1-22000bfdfd88",
+      "name": "1E",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190342/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_1E.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [],
+      "amenity_tags": [],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4319,
+      "uuid": "a0b140b0-d5b7-11e7-a6fb-22000bfdfd88",
+      "name": "1F",
+      "capacity": 3,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190244/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_1F.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "1st Floor",
+        "floor_number": 1
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4320,
+      "uuid": "ae7d2f06-d5b7-11e7-8945-22000bfdfd88",
+      "name": "2A",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1514477302/conf-rooms-prod/Coeur%20Marais/2A.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "2nd Floor",
+        "floor_number": 2
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4321,
+      "uuid": "ba3ba4ee-d5b7-11e7-8269-22000bfdfd88",
+      "name": "2B",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190265/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_2B.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "2nd Floor",
+        "floor_number": 2
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4322,
+      "uuid": "cf4d7254-d5b7-11e7-b06c-22000bfdfd88",
+      "name": "2C",
+      "capacity": 4,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190114/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_2C.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "2nd Floor",
+        "floor_number": 2
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4323,
+      "uuid": "e75bbffe-d5b7-11e7-8269-22000bfdfd88",
+      "name": "2D",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520189966/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Conference_Room_2D.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard",
+        "Phone",
+        "TV"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        },
+        {
+          "id": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "tv",
+          "display_name": "TV"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "2nd Floor",
+        "floor_number": 2
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    },
+    {
+      "id": 4324,
+      "uuid": "f0e6134e-d5b7-11e7-91e9-22000bfdfd88",
+      "name": "2E",
+      "capacity": 8,
+      "image_url": "https://res.cloudinary.com/wework/image/upload/c_scale,w_800/v1520190531/Coeur%20Marais%20conf-room/20180206_WeWork_Coeur_Marais_-_Brainstorming_Room_2E.jpg",
+      "opening_time": "2000-01-01T08:00:00.000Z",
+      "special_instructions": null,
+      "closing_time": "2000-01-01T21:00:00.000Z",
+      "amenities": [
+        "Whiteboard"
+      ],
+      "amenity_tags": [
+        {
+          "id": "whiteboard",
+          "display_name": "Whiteboard"
+        }
+      ],
+      "private": false,
+      "floor": {
+        "name": "2nd Floor",
+        "floor_number": 2
+      },
+      "additional_info": "You may modify or cancel this reservation until 60 minutes before the start of the reservation.",
+      "pxwe": false
+    }
+  ]
+}

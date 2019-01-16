@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+
+Welcome to PBX WeWork room booker !
+
+<!doctype html>
+<form method="POST">
+    <br>
+    email <input type="text" name="email"><br>
+    password <input type="password" name="password"><br>
+    <br>
+    date: <input type="date" name="date">
+    from: <input type="time" name="start_time">
+    to: <input type="time" name="end_time"><br>
+    <br>
+    possible rooms: <input type="text" name="possible_rooms" placeholder="example:2a,1a,2d"><br>
+    or:<br>
+    criteria (ignored if possible rooms is filled):<br>
+    <input type="checkbox" name="whiteboard"><label>Whiteboard</label>
+    <input type="checkbox" name="tv"><label>TV</label><br>
+    <label>min capacity</label><input type="number" name="min_capacity" value=4>
+    <label>preferred floor</label><input type="number" name="floor" value=2><br>
+    <br>
+    Multibook:<br>
+    <label>number of times</label><input type="number" name="times" value=1>
+    <br>
+    <label>period (days)</label><input type="number" name="period" value=7><br>
+
+    <input type="submit" value="Submit"><br>
+    (be patient, booking may take a little while)
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <ul class=flashes>
+                {% for message in messages %}
+                <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+</form>
+</html>
