@@ -1,5 +1,9 @@
 from flask import Flask, request, redirect, make_response, url_for, flash, render_template
-app = Flask('test', template_folder='/home/sbourigault/PycharmProjects/WeRoom/templates')
+
+import os
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+app = Flask('test', template_folder='{}/templates'.format(dir_path))
 app.secret_key = 'ohyeah'
 
 from client import Client
@@ -7,7 +11,7 @@ from client import Client
 @app.route("/", methods=['GET', 'POST'])
 def main():
     if request.method == 'POST':
-        print(request.form)
+        print({i:request.form.get(i) for i in request.form if i!='password'})
         username=request.form.get('email')
         pwd=request.form.get('password')
         cli = Client()
