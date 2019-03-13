@@ -102,8 +102,8 @@ class Client:
         data = {"reservation":
                     {"company_uuid": "5fe11b8b-3240-4ac0-9b97-5530125c64e5",
                      "date": date,
-                     "start_time": "{}T{}:00+01:00".format(date, start),
-                     "end_time": "{}T{}:00+01:00".format(date, end),
+                     "start_time": "{}T{}:00".format(date, start),
+                     "end_time": "{}T{}:00".format(date, end),
                      "notes": "",
                      "reservable_id": room_id
                      }
